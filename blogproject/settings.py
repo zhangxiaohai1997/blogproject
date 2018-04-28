@@ -25,7 +25,7 @@ SECRET_KEY = '+4i8=g40fxgkd#(tb&0-c&=%y+-jv0a*+3zs!8n&de#f1#1=f$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','120.78.135.197','.zhangzihao.site']
+ALLOWED_HOSTS = ['127.0.0.1','120.78.135.197','.localhost']
 
 
 # Application definition
